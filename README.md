@@ -4,7 +4,7 @@ Create simple signup form with formik and use yup for the validation
 
 ## screenshot
 
-![Signup screenshott](./src/assets/signup.png)
+![Signup screenshot](formik-yup-signup.gif)
 
 ## Links
 
